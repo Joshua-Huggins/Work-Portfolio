@@ -9,7 +9,7 @@ Creating a portfolio to display to projects that will be used to display current
 
 ## Deployment
 
-Deployed website can be found here 
+Deployed website can be found here https://joshua-huggins.github.io/Work-Portfolio/
 
 ## Issues
 
